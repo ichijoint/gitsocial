@@ -7,6 +7,9 @@
 <!-- [![alt text][3.1]][3] -->
 <!-- [![alt text][4.1]][4] -->
 <!-- [![alt text][5.1]][5] -->
+
+# Hello
+
 [![github][6.1]][6]
 
 
@@ -43,11 +46,3 @@
 [6]: http://www.github.com/ichijoint
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-
-## Add social media links to your GitHub README
-Want to add some flare to your README? How about getting mad followers on Twitter?
-
-Easy: Fork this repo and it with your own social media URLs. You can then copy / paste the social media icons into any of your project's README and you're done!
-
-### Example
-Follow me on [![alt text][1.1]][1]
