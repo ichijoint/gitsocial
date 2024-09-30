@@ -8,9 +8,9 @@
 <!-- [![alt text][4.1]][4] -->
 <!-- [![alt text][5.1]][5] -->
 
-# Hello
+# Hello [![github][6.1]][6]
 
-[![github][6.1]][6]
+
 
 
 <!-- links to social media icons -->
